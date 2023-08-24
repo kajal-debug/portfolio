@@ -1,7 +1,7 @@
-import namechange from "./reducer";
+import reducer from "./reducer";
 import { combineReducers } from "redux";
 
 const rootReducers =combineReducers({
-    namechange
+    reducer
 })
 export default rootReducers;

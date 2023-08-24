@@ -1,0 +1,10 @@
+.sidebar{
+    width: 20%;
+    background-color: aliceblue;
+    color: black;
+    position: absolute;
+    right: 0;
+    /* top: 0; */
+    height: 20%;
+    border-radius: 10px;
+}

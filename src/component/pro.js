@@ -20,16 +20,10 @@ function Pro() {
     <div style= {{color:"#fff"}} >   
  
        
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dibyaprakash1993@gmail.com" style={{textDecoration: "none"}} target="_blank">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kajalbaisakh123@gmail.com" style={{textDecoration: "none"}} target="_blank">
     <img src= {image}     width="45px" height= "45px" style={{borderRadius: "17px"}} /></a>
        {/* <Link to="/"> */}
-      <button
-        // disabled={downloaded}
-        onClick={HandleDownload}
-        className="btn btn-primary"
-      > 
-        Download cv
-      </button>
+     
     {/* </Link> */}
     </div> 
   );
